@@ -11,11 +11,11 @@ I'm a Computer Science student at UFPI with a focus on AI, Cloud and Data Scienc
 -  **Database:** Relational Database (SQL, PostgreSQL) / Non-Relational Database (MongoDB, DynamoDB)
 -  **Data Visu:** Power Bi, Tableau 
 
-## ⭐️ Experiences
+## 🌱 Experiences
 -
 -
 -
-## 🌱 Porfolio
+## 💎 Porfolio
 -
 -
 -

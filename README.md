@@ -8,6 +8,7 @@ I´m a Computer Science student at UFPI with a focus on AI, Cloud and Data Scien
 -  **Language:**  Python, C
 -  **DevOps:**  Amazon Web Services (AWS), Google Cloud, Docker, Kubernetes, Terraform, Ansible
 -  **Database:** Relational Database (SQL, PostgreSQL) / Non-Relational Database (MongoDB, DynamoDB)
+-  **Data Visu:** Power Bi, Tableau 
 
 ## ⭐️ Experiences
 -

@@ -3,7 +3,7 @@
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)]() [![Twitter](https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VlaadX_)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](_) 
 
 
-I´m a Computer Science student at UFPI with a focus on AI, Cloud and Data Science, Using Python.
+I'm a Computer Science student at UFPI with a focus on AI, Cloud and Data Science, Using Python.
 
 ##  👨‍💻 Professional Skills
 -  **Language:**  Python, C
@@ -18,5 +18,5 @@ I´m a Computer Science student at UFPI with a focus on AI, Cloud and Data Scien
 
 <div>
   <a href="https://github.com/VlaadX">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VlaadX&show_icons=&theme=shadow_blue&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VlaadX&show_icons=&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>

@@ -14,7 +14,9 @@ I'm a Computer Science student at UFPI with a focus on AI, Cloud and Data Scienc
 ## 🌱 Experiences
 -
 ## 💎 Porfolio
+- [Personal Website using AWS and Terraform](https://github.com/VlaadX/StaticWebsite-Terraform-AWS)
 -
+- 
 
 ![VlaadX GitHub stats](https://github-readme-stats.vercel.app/api?username=VlaadX&show_icons=true&theme=gotham)
 

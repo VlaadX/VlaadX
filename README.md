@@ -6,7 +6,7 @@
 I'm a Computer Science student at UFPI with a focus on Software Development and DevOps
 
 ##  👨‍💻 Professional Skills
--  **Skills:**  C | C# | Python | .NET
+-  **Skills:**  C | C# | .NET | Java | Spring | Python
 -  **DevOps:**  Azure | AWS | Docker | Kubernetes | Git/GitHub | GitLab 
 -  **Database:** Relational Database (SQL, PostgreSQL) | Non-Relational Database (MongoDB, DynamoDB)
 -  **Data Visu:** Power Bi | Tableau

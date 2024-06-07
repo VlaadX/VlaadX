@@ -16,4 +16,3 @@ I'm a Computer Science student at UFPI with a focus on Software Development and 
 -
 ## 💎 Porfolio
 - 
-![VlaadX GitHub stats](https://github-readme-stats.vercel.app/api?username=VlaadX&show_icons=true&theme=gotham)

@@ -1,6 +1,9 @@
-<h2> Hello there, I'm Wladimir Gadelha <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"> </h2>
+![Minha Foto](https://i.imgur.com/uEVIGHd.png)
 
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladimir-gadelha-aab7a7227/)
+
+
+
 
 
 I'm a Computer Science student at UFPI with a focus on Software Development and DevOps
@@ -13,3 +16,5 @@ I'm a Computer Science student at UFPI with a focus on Software Development and 
 
 ## 💎 Porfolio
 - 
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VlaadX&theme=dracula&hide_border=true&border_radius=10&card_width=660&hide_longest_streak=true" alt="GitHub Streak" /></a>

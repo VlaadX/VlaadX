@@ -1,7 +1,12 @@
-![Minha Foto](https://i.imgur.com/uEVIGHd.png)
+<div align="center">
+  <img src="https://i.imgur.com/uEVIGHd.png" alt="Minha Foto" />
+</div>
 
-[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladimir-gadelha-aab7a7227/)
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/wladimir-gadelha-aab7a7227/">
+    <img src="https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
 
 
@@ -23,4 +28,7 @@ I'm always seeking new challenges and opportunities to learn and grow profession
 ## 💎 Porfolio
 - 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VlaadX&theme=dracula&hide_border=true&border_radius=10&card_width=660&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VlaadX&theme=dracula&hide_border=true&border_radius=10&card_width=660&hide_longest_streak=true" alt="GitHub Streak" /></a>
+</div>
+

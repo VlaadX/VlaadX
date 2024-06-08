@@ -12,7 +12,5 @@ I'm a Computer Science student at UFPI with a focus on Software Development and 
 -  **Data Visu:** Power Bi | Tableau
 -  **Languages:** Portuguese | English
 
-## 🌱 Experiences
--
 ## 💎 Porfolio
 - 

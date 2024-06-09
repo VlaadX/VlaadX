@@ -26,7 +26,8 @@ I'm always seeking new challenges and opportunities to learn and grow profession
 -  **Languages:** Portuguese | English
 
 ## 💎 Porfolio
-- 
+- [API com C# .NET MySQL](https://github.com/VlaadX/API_Csharp)
+
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VlaadX&theme=dracula&hide_border=true&border_radius=10&card_width=660&hide_longest_streak=true" alt="GitHub Streak" /></a>

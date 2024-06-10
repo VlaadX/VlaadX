@@ -32,8 +32,8 @@ I'm always seeking new challenges and opportunities to learn and grow profession
 -  **Languages:** Portuguese | English
 
 ## 💎 Porfolio
-- [Jogo de Xadrez - C# .NET](https://github.com/VlaadX/ChessGame_CSharp)
-- [Biblioteca Pessoal - Java ](https://github.com/VlaadX/PersonalLibrary_Java)
+- [C# - ChessGame](https://github.com/VlaadX/ChessGame_CSharp)
+- [JAVA - PersonalLibrary](https://github.com/VlaadX/PersonalLibrary_Java)
 
 
 

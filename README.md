@@ -27,9 +27,9 @@ I'm always seeking new challenges and opportunities to learn and grow profession
 ##  👨‍💻 Professional Skills
 -  **Skills:**  C | C# | .NET | Java | Spring | Python
 -  **DevOps:**  Azure | AWS | Docker | Kubernetes | Git/GitHub | GitLab 
--  **Database:** Relational Database (SQL, PostgreSQL) | Non-Relational Database (MongoDB, DynamoDB)
+-  **Database:** Relational Database (SQL, PostgreSQL) | Non-Relational Database (MongoDB)
 -  **Languages:** Portuguese | English
-- 
+  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

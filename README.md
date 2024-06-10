@@ -32,7 +32,11 @@ I'm always seeking new challenges and opportunities to learn and grow profession
 -  **Languages:** Portuguese | English
 
 ## 💎 Porfolio
-- [API com C# .NET MySQL](https://github.com/VlaadX/API_Csharp)
+- [Jogo de Xadrez - C# .NET]()
+- [Biblioteca Pessoal - Java ](https://github.com/VlaadX/PersonalLibrary_Java)
+- [API Pessoal - C# .NET MySQL](https://github.com/VlaadX/API_Csharp)
+
+
 
 
 <div align="center">

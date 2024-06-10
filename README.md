@@ -1,14 +1,15 @@
+
 <div align="center">
-  <img src="https://i.imgur.com/uEVIGHd.png" alt="Minha Foto" />
+  <img src="https://i.imgur.com/uEVIGHd.png" alt="Minha Foto"/>
 </div>
 
 <div align="center">
-  
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  <a href="https://www.linkedin.com/in/wladimir-gadelha-aab7a7227/">
-    <img src="https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> 
- </a>
-
+  <a href="mailto:wladimirgadelhajob@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/wladimir-gadelha-aab7a7227/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
 
 

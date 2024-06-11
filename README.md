@@ -24,6 +24,6 @@ I'm always seeking new challenges and opportunities to learn and grow profession
 - <a href="https://github.com/VlaadX/PersonalLibrary_Java">JAVA - PersonalLibrary</a>
   
 <div align="center">
-  <img height="165em" src="https://streak-stats.demolab.com?user=VlaadX&theme=dracula&hide_border=true&border_radius=10&card_width=660&hide_longest_streak=true" align="left" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VlaadX&theme=dracula&hide_border=true&border_radius=10&card_width=200" align ="left" />
+  <img height="160em" src="https://streak-stats.demolab.com?user=VlaadX&theme=dracula&hide_border=true&border_radius=10&card_width=660&hide_longest_streak=true" align="left" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VlaadX&theme=dracula&hide_border=true&border_radius=10&card_width=200" align ="left" />
 </div>

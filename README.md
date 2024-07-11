@@ -19,9 +19,6 @@ I'm always seeking new challenges and opportunities to learn and grow profession
 - **Database:** SQL, PostgreSQL | MongoDB
 - **Languages:** Portuguese | English
 
-## 🎃 Portfolio
-- <a href="https://github.com/VlaadX/ChessGame_CSharp">C# - ChessGame</a></li>
-- <a href="https://github.com/VlaadX/PersonalLibrary_Java">JAVA - PersonalLibrary</a>
   
 <div align="center">
   <img height="150em" src="https://streak-stats.demolab.com?user=VlaadX&theme=dracula&hide_border=true&border_radius=10&card_width=660&hide_longest_streak=true" align="left" />

@@ -21,5 +21,5 @@ I'm always seeking new challenges and opportunities to learn and grow profession
 
   
 <div align="center">
-  <img height="150em" src="https://streak-stats.demolab.com?user=VlaadX&theme=dracula&hide_border=true&border_radius=10&card_width=660&hide_longest_streak=true" align="left" />
+  <img height="150em" src="https://streak-stats.demolab.com?user=VlaadX&theme=dracula&hide_border=true&border_radius=10&card_width=660&hide_longest_streak=true" />
 </div>

@@ -14,7 +14,7 @@ In addition to my studies, I enjoy reading and gaming. I love exploring new worl
 I'm always seeking new challenges and opportunities to learn and grow professionally. I believe technology has the power to transform lives, and I'm excited to be part of this innovation movement.
 
 ## 🎯 Skills
-- **Skills:** JS | NODE | REACT | Python
+- **Skills:** JS | Node | React | Python
 - **DevOps:** AWS | Docker | Kubernetes | Git/GitHub | GitLab 
 - **Database:** SQL | PostgreSQL | MongoDB
 - **Languages:** Portuguese | English

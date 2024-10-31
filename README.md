@@ -19,6 +19,14 @@ I'm always seeking new challenges and opportunities to learn and grow profession
 - **Database:** SQL | PostgreSQL | MongoDB
 - **Languages:** Portuguese | English
 
+## 💎 Porfolio
+- <a href="https://github.com/VlaadX/rede-social" style="text-decoration: none; font-size: 38px;">RedeSocial</a>
+- <a href="https://github.com/VlaadX/story-craft-kids" style="text-decoration: none; font-size: 38px;">StoryKids</a>
+- <a href="https://github.com/VlaadX/Buzzly" style="text-decoration: none; font-size: 38px;">Buzzly</a>
+
+
+
+
   
 <div align="center">
   <img height="150em" src="https://streak-stats.demolab.com?user=VlaadX&theme=dracula&hide_border=true&border_radius=10&card_width=660&hide_longest_streak=true" />

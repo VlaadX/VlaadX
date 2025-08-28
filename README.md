@@ -29,6 +29,8 @@ The project features secure authentication using JSON Web Tokens (JWT), protecti
 
 ### RAG using AWS Bedrock and AWS Polly
 A system using AWS Bedrock and AWS Polly creates a "smart assistant" that answers questions based on your private documents and speaks the answers aloud. It uses Retrieval-Augmented Generation (RAG) to find relevant information in your files before generating a response, ensuring the answers are accurate and context-specific.
+
+The entire workflow is orchestrated by an AWS Lambda function, exposed securely through Amazon API Gateway. The architecture was meticulously designed for efficiency and low cost, maximizing the use of the AWS Free Tier and offloading the expensive Speech-to-Text processing to the browser's native Web Speech API. This project serves as a practical demonstration of building scalable, cost-effective, and cutting-edge AI solutions on the cloud.
 ### [RAG AWS repository link](https://github.com/VlaadX/RAG-AWS)
 
 

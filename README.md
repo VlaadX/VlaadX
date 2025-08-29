@@ -33,5 +33,9 @@ A system using AWS Bedrock and AWS Polly creates a "smart assistant" that answer
 The entire workflow is orchestrated by an AWS Lambda function, exposed securely through Amazon API Gateway. The architecture was meticulously designed for efficiency and low cost, maximizing the use of the AWS Free Tier and offloading the expensive Speech-to-Text processing to the browser's native Web Speech API. This project serves as a practical demonstration of building scalable, cost-effective, and cutting-edge AI solutions on the cloud.
 ### [RAG AWS repository link](https://github.com/VlaadX/RAG-AWS)
 
+### Pokémon Sentiment Analysis
+A Natural Language Processing (NLP) and data visualization project designed to collect and analyze real-time community sentiment from Reddit. Leveraging the Reddit API via the PRAW library, the system extracts community discussions surrounding speculations for the game *Pokémon Legends: Z-A*. The collected comments are then processed and classified as positive, neutral, or negative using a state-of-the-art pre-trained RoBERTa language model from the Hugging Face ecosystem. The entire analysis pipeline is GPU-accelerated through PyTorch and CUDA to handle large volumes of data efficiently.
+### [Pokémon Sentiment Analysis repository link](https://github.com/VlaadX/Pok-mon-Sentiment-Analysis-PSA-.git)
+
 
 

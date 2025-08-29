@@ -33,8 +33,8 @@ A system using AWS Bedrock and AWS Polly creates a "smart assistant" that answer
 The entire workflow is orchestrated by an AWS Lambda function, exposed securely through Amazon API Gateway. The architecture was meticulously designed for efficiency and low cost, maximizing the use of the AWS Free Tier and offloading the expensive Speech-to-Text processing to the browser's native Web Speech API. This project serves as a practical demonstration of building scalable, cost-effective, and cutting-edge AI solutions on the cloud.
 ### [RAG AWS repository link](https://github.com/VlaadX/RAG-AWS)
 
-### Pokémon Sentiment Analysis
-To Be Hero X Sentiment Analysis (TBHXSA) is a data-driven project designed to analyze and visualize fan community opinions on the anime series To Be Hero X. Leveraging a powerful Python toolkit, the project uses PRAW to scrape Reddit data, Hugging Face Transformers for state-of-the-art sentiment analysis, and presents the findings in a dynamic web dashboard built with Streamlit and Plotly. The analysis has a dual focus: exploring the reception of each character and tracking the evolution of audience sentiment throughout the season, episode by episode.
+### To Be Hero X Sentiment Analysis
+A data-driven project designed to analyze and visualize fan community opinions on the anime series To Be Hero X. Leveraging a powerful Python toolkit, the project uses PRAW to scrape Reddit data, Hugging Face Transformers for state-of-the-art sentiment analysis, and presents the findings in a dynamic web dashboard built with Streamlit and Plotly. The analysis has a dual focus: exploring the reception of each character and tracking the evolution of audience sentiment throughout the season, episode by episode.
 ### [ToBeHeroX Sentiment Analysis repository link](https://github.com/VlaadX/Pok-mon-Sentiment-Analysis-PSA-.git)
 
 

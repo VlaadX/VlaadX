@@ -17,7 +17,9 @@ I'm always seeking new challenges and opportunities to learn and grow profession
 - **Skills:** JS | Node | React | Python
 - **DevOps:** AWS | Docker | Kubernetes | Git/GitHub | GitLab 
 - **Database:** SQL | PostgreSQL | MongoDB | Firebase
+- **IA/ML:** Machine Learning | Deep Learning | Natural Language Processing (NLP)
 - **Languages:** Portuguese | English | Japanese
+
 
 ## 🥇 Amazon Web Services Certifications
 <div style="display: flex; gap: 10px;">

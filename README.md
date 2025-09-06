@@ -19,6 +19,11 @@ I'm always seeking new challenges and opportunities to learn and grow profession
 - **Database:** SQL | PostgreSQL | MongoDB | Firebase
 - **Languages:** Portuguese | English | Japanese
 
+## 🥇 Amazon Web Services Certifications
+<div style="display: flex; gap: 10px;">
+  <img title="AWS Certified AI Practitioner" height="150" src="https://github.com/VlaadX/VlaadX/blob/main/aws_ia.png">
+</div>
+
 ## 💎 Porfolio
 
 ### Social Media 🌐

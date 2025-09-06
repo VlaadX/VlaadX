@@ -37,6 +37,11 @@ The entire workflow is orchestrated by an AWS Lambda function, exposed securely 
 ### Credit Card Fraud Detection: An End-to-End Analysis
 An end-to-end Machine Learning project that develops and compares fraud detection models on a highly imbalanced credit card transaction dataset. This system demonstrates a full data science workflow, from exploratory data analysis (EDA) and data preprocessing to training and evaluating traditional (XGBoost) and deep learning models. The solution emphasizes using business-centric metrics like Precision, Recall, and F1-Score to overcome the challenge of misleading accuracy, ultimately identifying a robust and production-ready model for real-world application.
 ### [Credit Card Fraud Detection repository link](https://github.com/VlaadX/Fraud-Detection-ML-Pipeline)
+
+### To Be Hero X Sentiment Analysis
+A data-driven project designed to analyze and visualize fan community opinions on the anime series To Be Hero X. Leveraging a powerful Python toolkit, the project uses PRAW to scrape Reddit data, Hugging Face Transformers for state-of-the-art sentiment analysis, and presents the findings in a dynamic web dashboard built with Streamlit and Plotly. The analysis has a dual focus: exploring the reception of each character and tracking the evolution of audience sentiment throughout the season, episode by episode.
+### [ToBeHeroX Sentiment Analysis repository link](https://github.com/VlaadX/Pok-mon-Sentiment-Analysis-PSA-.git)
+
 ### Social Media 🌐
 Social Network Project developed using Node.js, React, JavaScript, and MongoDB, incorporating real-time chat and AI features to elevate user engagement. This platform was designed to create a vibrant social environment where users can securely connect, communicate, and benefit from AI-driven assistance. MongoDB serves as the primary database, providing flexibility and scalability for managing user data, posts, chat histories, and AI-generated interactions efficiently.
 
@@ -44,9 +49,7 @@ The project features secure authentication using JSON Web Tokens (JWT), protecti
 ### [Social Media repository link](https://github.com/VlaadX/rede-social)
 
 
-### To Be Hero X Sentiment Analysis
-A data-driven project designed to analyze and visualize fan community opinions on the anime series To Be Hero X. Leveraging a powerful Python toolkit, the project uses PRAW to scrape Reddit data, Hugging Face Transformers for state-of-the-art sentiment analysis, and presents the findings in a dynamic web dashboard built with Streamlit and Plotly. The analysis has a dual focus: exploring the reception of each character and tracking the evolution of audience sentiment throughout the season, episode by episode.
-### [ToBeHeroX Sentiment Analysis repository link](https://github.com/VlaadX/Pok-mon-Sentiment-Analysis-PSA-.git)
+
 
 
 

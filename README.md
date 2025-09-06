@@ -42,6 +42,10 @@ An end-to-end Machine Learning project that develops and compares fraud detectio
 A data-driven project designed to analyze and visualize fan community opinions on the anime series To Be Hero X. Leveraging a powerful Python toolkit, the project uses PRAW to scrape Reddit data, Hugging Face Transformers for state-of-the-art sentiment analysis, and presents the findings in a dynamic web dashboard built with Streamlit and Plotly. The analysis has a dual focus: exploring the reception of each character and tracking the evolution of audience sentiment throughout the season, episode by episode.
 ### [ToBeHeroX Sentiment Analysis repository link](https://github.com/VlaadX/Pok-mon-Sentiment-Analysis-PSA-.git)
 
+### LORA training for SDXL 1.5
+This repository provides a compact and practical LoRA training pipeline for adapting Stable Diffusion models using paired image-and-caption datasets. It includes a Windows-friendly training script, dependency list, and instructions to export LoRA weights that are ready for use with Hugging Face Diffusers or the AUTOMATIC1111 web UI.
+### [Lora training repository link](https://github.com/VlaadX/sd-lora-trainer)
+
 ### Social Media 🌐
 Social Network Project developed using Node.js, React, JavaScript, and MongoDB, incorporating real-time chat and AI features to elevate user engagement. This platform was designed to create a vibrant social environment where users can securely connect, communicate, and benefit from AI-driven assistance. MongoDB serves as the primary database, providing flexibility and scalability for managing user data, posts, chat histories, and AI-generated interactions efficiently.
 

@@ -9,7 +9,7 @@
 
 ##  ♉ About Me
 
-I'm Wladimir, a 21-year-old Computer Science student at UFPI with a passion for becoming a software developer and DevOps engineer. I live in Brazil and have been fascinated by technology since I was a child.
+I'm Wladimir, a 21-year-old Computer Science student at UFPI. I live in Brazil and have been fascinated by technology since I was a child.
 In addition to my studies, I enjoy reading and gaming. I love exploring new worlds through books and strategizing in TFT, where I've achieved the Challenger rank. I'm also passionate about cats!
 I'm always seeking new challenges and opportunities to learn and grow professionally. I believe technology has the power to transform lives, and I'm excited to be part of this innovation movement.
 

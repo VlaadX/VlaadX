@@ -46,6 +46,10 @@ A data-driven project designed to analyze and visualize fan community opinions o
 This repository provides a compact and practical LoRA training pipeline for adapting Stable Diffusion models using paired image-and-caption datasets. It includes a Windows-friendly training script, dependency list, and instructions to export LoRA weights that are ready for use with Hugging Face Diffusers or the AUTOMATIC1111 web UI.
 ### [Lora training repository link](https://github.com/VlaadX/sd-lora-trainer)
 
+### Music Genre Classifier
+This project builds an end-to-end music genre classifier, showcasing a full data science workflow. It demonstrates core skills in feature engineering on complex audio data (MFCCs), model training with a high-performing XGBoost, and performance evaluation using business-centric metrics to address the challenges of classifying similar genres.
+### [ML Music Classifier repository link](https://github.com/VlaadX/Music-Genre-Classifier-ML/tree/main)
+
 ### Social Media 🌐
 Social Network Project developed using Node.js, React, JavaScript, and MongoDB, incorporating real-time chat and AI features to elevate user engagement. This platform was designed to create a vibrant social environment where users can securely connect, communicate, and benefit from AI-driven assistance. MongoDB serves as the primary database, providing flexibility and scalability for managing user data, posts, chat histories, and AI-generated interactions efficiently.
 

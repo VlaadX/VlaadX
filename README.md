@@ -56,6 +56,10 @@ Social Network Project developed using Node.js, React, JavaScript, and MongoDB, 
 The project features secure authentication using JSON Web Tokens (JWT), protecting user access, while the real-time chat functionality is enabled through Socket.io, ensuring instant message delivery and seamless communication. The AI assistant, integrated via API, enhances user experience by offering personalized responses.
 ### [Social Media repository link](https://github.com/VlaadX/rede-social)
 
+### MNIST Digit Classifier (MLP vs CNN)
+This project builds an end-to-end handwritten digit classifier, comparing MLP and CNN architectures. It demonstrates key skills in image preprocessing, deep learning model training, and performance evaluation through accuracy curves and confusion matrices, highlighting the strengths of convolutional networks for computer vision.  
+### [MNIST Classifier repository link](https://github.com/VlaadX/mnist-digit-classifier-mlp-vs-cnn/tree/master)
+
 
 
 

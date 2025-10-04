@@ -26,6 +26,11 @@ I'm always seeking new challenges and opportunities to learn and grow profession
   <img title="AWS Certified AI Practitioner" height="150" src="https://github.com/VlaadX/VlaadX/blob/main/aws_ia.png">
 </div>
 
+## 🥇 Oracle Cloud Infrastructure Certifications
+<div style="display: flex; gap: 10px;">
+  <img title="OCI Certified AI" height="150" src="https://github.com/VlaadX/VlaadX/blob/main/oci_ia.png">
+</div>
+
 ## 💎 Porfolio
 
 ### RAG using AWS Bedrock and AWS Polly

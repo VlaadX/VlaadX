@@ -29,6 +29,7 @@ I'm always seeking new challenges and opportunities to learn and grow profession
 ## Oracle Cloud Infrastructure Certifications
 <div style="display: flex; gap: 10px;">
   <img title="OCI Certified AI" height="150" src="https://github.com/VlaadX/VlaadX/blob/main/oci_ia.png">
+  <img title="OCI Generative AI" height="150" src="https://github.com/VlaadX/VlaadX/blob/main/oci_gen_ai.png">
 </div>
 
 ## 💎 Porfolio

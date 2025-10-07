@@ -7,24 +7,19 @@
   <a href="https://www.linkedin.com/in/wladimir-gadelha-aab7a7227/" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0;"></a>
 </div>
 
-##  ♉ About Me
+##  About Me
 
 I'm Wladimir, a 21-year-old Computer Science student at UFPI. I live in Brazil and have been fascinated by technology since I was a child.
 In addition to my studies, I enjoy reading and gaming. I love exploring new worlds through books and strategizing in TFT, where I've achieved the Challenger rank. I'm also passionate about cats!
 I'm always seeking new challenges and opportunities to learn and grow professionally. I believe technology has the power to transform lives, and I'm excited to be part of this innovation movement.
 
-## 🎯 Skills
+##  Skills
 - **Skills:** JS | Node | React | Python
-- **DevOps:** AWS | Docker | Kubernetes | Git/GitHub | GitLab 
+- **DevOps:** AWS | OCI | Docker | Kubernetes | Git/GitHub | GitLab 
 - **Database:** SQL | PostgreSQL | MongoDB | Firebase
-- **IA/ML:** Machine Learning | Deep Learning | Natural Language Processing (NLP)
+- **IA/ML:** Machine Learning | Deep Learning | Natural Language Processing (NLP) | Generative AI
 - **Languages:** Portuguese | English | Japanese
 
-
-## Amazon Web Services Certifications
-<div style="display: flex; gap: 10px;">
-  <img title="AWS Certified AI Practitioner" height="150" src="https://github.com/VlaadX/VlaadX/blob/main/aws_ia.png">
-</div>
 
 ## Oracle Cloud Infrastructure Certifications
 <div style="display: flex; gap: 10px;">
@@ -32,7 +27,13 @@ I'm always seeking new challenges and opportunities to learn and grow profession
   <img title="OCI Generative AI" height="150" src="https://github.com/VlaadX/VlaadX/blob/main/oci_gen_ai.png">
 </div>
 
-## 💎 Porfolio
+## Amazon Web Services Certifications
+<div style="display: flex; gap: 10px;">
+  <img title="AWS Certified AI Practitioner" height="150" src="https://github.com/VlaadX/VlaadX/blob/main/aws_ia.png">
+</div>
+
+
+##  Porfolio
 
 ### RAG using AWS Bedrock and AWS Polly
 A system using AWS Bedrock and AWS Polly creates a "smart assistant" that answers questions based on your private documents and speaks the answers aloud. It uses Retrieval-Augmented Generation (RAG) to find relevant information in your files before generating a response, ensuring the answers are accurate and context-specific.
@@ -56,7 +57,7 @@ This repository provides a compact and practical LoRA training pipeline for adap
 This project builds an end-to-end music genre classifier, showcasing a full data science workflow. It demonstrates core skills in feature engineering on complex audio data (MFCCs), model training with a high-performing XGBoost, and performance evaluation using business-centric metrics to address the challenges of classifying similar genres.
 ### [ML Music Classifier repository link](https://github.com/VlaadX/Music-Genre-Classifier-ML/tree/main)
 
-### Social Media 🌐
+### Social Media 
 Social Network Project developed using Node.js, React, JavaScript, and MongoDB, incorporating real-time chat and AI features to elevate user engagement. This platform was designed to create a vibrant social environment where users can securely connect, communicate, and benefit from AI-driven assistance. MongoDB serves as the primary database, providing flexibility and scalability for managing user data, posts, chat histories, and AI-generated interactions efficiently.
 
 The project features secure authentication using JSON Web Tokens (JWT), protecting user access, while the real-time chat functionality is enabled through Socket.io, ensuring instant message delivery and seamless communication. The AI assistant, integrated via API, enhances user experience by offering personalized responses.

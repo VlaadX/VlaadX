@@ -77,11 +77,6 @@ This repository provides a compact and practical LoRA training pipeline for adap
 This project builds an end-to-end music genre classifier, showcasing a full data science workflow. It demonstrates core skills in feature engineering on complex audio data (MFCCs), model training with a high-performing XGBoost, and performance evaluation using business-centric metrics to address the challenges of classifying similar genres.
 ### [ML Music Classifier repository link](https://github.com/VlaadX/Music-Genre-Classifier-ML/tree/main)
 
-### Social Media 
-Social Network Project developed using Node.js, React, JavaScript, and MongoDB, incorporating real-time chat and AI features to elevate user engagement. This platform was designed to create a vibrant social environment where users can securely connect, communicate, and benefit from AI-driven assistance. MongoDB serves as the primary database, providing flexibility and scalability for managing user data, posts, chat histories, and AI-generated interactions efficiently.
-
-The project features secure authentication using JSON Web Tokens (JWT), protecting user access, while the real-time chat functionality is enabled through Socket.io, ensuring instant message delivery and seamless communication. The AI assistant, integrated via API, enhances user experience by offering personalized responses.
-### [Social Media repository link](https://github.com/VlaadX/rede-social)
 
 ### MNIST Digit Classifier (MLP vs CNN)
 This project builds an end-to-end handwritten digit classifier, comparing MLP and CNN architectures. It demonstrates key skills in image preprocessing, deep learning model training, and performance evaluation through accuracy curves and confusion matrices, highlighting the strengths of convolutional networks for computer vision.  

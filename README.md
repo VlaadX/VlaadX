@@ -37,7 +37,7 @@ I'm always seeking new challenges and opportunities to learn and grow profession
 ## Cortex
 
 <div align="center">
-  <img src="https://github.com/VlaadX/VlaadX/blob/main/cortex_logo.png?raw=true" alt="Cortex logo" height="140" />
+  <img src="https://github.com/VlaadX/VlaadX/blob/main/cortex_logo.png?raw=true" alt="Cortex logo" height="200" />
 </div>
 
 An AI-powered study platform I designed and built end-to-end — currently in production with **400+ active users**. Cortex ships across three native clients: web (React + Vite), mobile (React Native + Expo, distributed on the App Store and Play Store), and a native macOS app (SwiftUI). All three share one backend and one AI assistant.

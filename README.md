@@ -36,6 +36,10 @@ I'm always seeking new challenges and opportunities to learn and grow profession
 
 ## Cortex
 
+<div align="center">
+  <img src="https://github.com/VlaadX/VlaadX/blob/main/cortex_logo.png?raw=true" alt="Cortex logo" height="140" />
+</div>
+
 An AI-powered study platform I designed and built end-to-end — currently in production with **400+ active users**. Cortex ships across three native clients: web (React + Vite), mobile (React Native + Expo, distributed on the App Store and Play Store), and a native macOS app (SwiftUI). All three share one backend and one AI assistant.
 
 The differentiator is the assistant itself. It's not a chatbot bolted on the side — it has access to the platform as tools, grounds its answers in the underlying study material, and works through multi-step requests on its own (search, read, plan, do, check). The student talks; the assistant acts inside the product.

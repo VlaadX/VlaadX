@@ -44,6 +44,12 @@ An AI-powered study platform I designed and built end-to-end — currently in pr
 
 The differentiator is the assistant itself. It's not a chatbot bolted on the side — it has access to the platform as tools, grounds its answers in the underlying study material, and works through multi-step requests on its own (search, read, plan, do, check). The student talks; the assistant acts inside the product.
 
+<div align="center">
+  <a href="https://github.com/VlaadX/cortex-showcase">
+    <img src="https://github.com/VlaadX/cortex-showcase/blob/main/screenshots/macos/dashboard.png?raw=true" alt="Cortex dashboard on macOS" width="800" />
+  </a>
+</div>
+
 ### [Cortex showcase repository link](https://github.com/VlaadX/cortex-showcase)
 
 

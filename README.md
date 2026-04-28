@@ -34,7 +34,7 @@ I'm always seeking new challenges and opportunities to learn and grow profession
 </div>
 
 
-## Cortex
+## Cortex Platform — my flagship end-to-end project
 
 <div align="center">
   <img src="https://github.com/VlaadX/VlaadX/blob/main/cortex_logo.png?raw=true" alt="Cortex logo" height="200" />
